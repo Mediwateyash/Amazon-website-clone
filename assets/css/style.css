@@ -18,7 +18,7 @@
     
 }
 .logo{
-    background-image: url("/Amazon-website-clone/assets/img/Amazon_Logo.png");
+    background-image: url("/Amazon-website-clone/assets/img/amazon_logo.png");
     height: 50px;
     width: 100px; 
     background-size: cover;
@@ -89,4 +89,8 @@ span {
 .nav-second {
     font-size: 0.85rem;
     font-weight: 700;
+}
+/**box6**/
+.nav-cart i {
+    font-size: 30px;
 }
