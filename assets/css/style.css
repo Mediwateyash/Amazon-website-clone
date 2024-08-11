@@ -120,3 +120,26 @@ span {
     font-size: 0.9rem;
     font-weight: 700;
 }
+
+/** hero section**/
+.hero-section{
+    background-image: url(/Amazon-website-clone/assets/img/herosection.jpg);
+    height: 350px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+
+}
+
+.hero-mes{
+    background-color: white;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 0.85rem;
+    width: 80%;
+    margin-bottom: 25px;
+
+}
