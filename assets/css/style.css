@@ -184,13 +184,13 @@ margin-top: 5px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 0.5rem;
+    font-size: 0.9rem;
 }
 
 .footer-panel2{
     background-color: #222f3d;
     color: white;
-    height: 500px;
+    height: 400px;
     display: flex;
     justify-content: space-evenly; 
 }
@@ -200,7 +200,7 @@ ul{
 
 ul a {
     display: block;
-    font-size: 0.85rem;
+    font-size: 1rem;
     margin-top: 10px;
     color: #dddddd;
 
