@@ -1,4 +1,5 @@
 # Amazon website clone
+Access the live website fromo deployment section 
 # Project Overview
 This project is a front-end clone of the Amazon.com website, created using HTML and CSS. The clone replicates the layout, design, and some key visual features of the original Amazon website. The main purpose of this project is to demonstrate proficiency in HTML and CSS, focusing on creating a realistic, responsive design that mimics a popular e-commerce platform.
 
